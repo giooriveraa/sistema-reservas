@@ -38,7 +38,6 @@ Este proyecto es una aplicación web moderna para gestionar reservas de un resta
 .
 ├── index.html              # Página principal
 ├── /images                 # Carpeta para imágenes del sitio (opcional)
-├── /css                    # Estilos personalizados si aplica
 ├── /js                     # Scripts JavaScript si están separados
 
 🙋‍♂️ Autor
